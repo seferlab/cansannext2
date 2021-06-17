@@ -1,0 +1,1 @@
+( PART_NO not like 'P%' and PART_NO not like 'E%' and PART_NO not like 'B%' and PART_NO not like 'F%' ) and LOCATION_NO = 'KALITE' and QTY_ONHAND>0
